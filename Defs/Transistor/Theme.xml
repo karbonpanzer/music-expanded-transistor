@@ -1,0 +1,45 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Transistor</defName>
+        <label>Music Expanded: Transistor</label>
+		<iconPath>UI/Icons/Transistor</iconPath>
+        <description>Contains Tracks from Transistor. Contains a few battle tracks and a main menu and credit track.</description>
+		<tracks>
+			<!-- Ambient Tracks -->		
+			<li>ME_Transistor_Old_Friends</li>
+			<li>ME_Transistor_Stained_Glass</li>
+			<li>ME_Transistor_Forecast</li>
+			<li>ME_Transistor_Coasting</li>
+			<li>ME_Transistor_Vanishing_Point</li>
+			<li>ME_Transistor_Traces</li>
+			<li>ME_Transistor_Water_Wall</li>
+			<li>ME_Transistor_Cut_Apart</li>
+			<li>ME_Transistor_Gold_Leaf</li>
+			<li>ME_Transistor_Heightmap</li>
+			<li>ME_Transistor_Dormant</li>
+			<li>ME_Transistor_Apex_Beat</li>
+			<li>ME_Transistor_Gateless</li>
+			<li>ME_Transistor_Sandbox</li>
+			<li>ME_Transistor_Interlace</li>
+			<li>ME_Transistor_Tangent</li>
+			<li>ME_Transistor_Signals</li>
+			<li>ME_Transistor_Blank_Canvas</li>
+			<li>ME_Transistor_Paper_Boats</li>
+			<li>ME_Transistor_She_Shines</li>	
+			
+			<!-- Main Menu/Credits Tracks -->
+			<li>ME_Transistor_We_All_Become</li>
+			<li>ME_Transistor_Old_Friends_Menu</li>			
+			
+			<!-- Battle Tracks Tracks -->
+			<li>ME_Transistor_The_Spine</li>
+			<li>ME_Transistor_In_Circles</li>			
+			<li>ME_Transistor_Impossible</li>
+			
+			<!-- Custom Cue Tracks -->
+			
+			<!-- Anomaly Tracks -->
+						
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

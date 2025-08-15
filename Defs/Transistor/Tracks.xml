@@ -1,0 +1,154 @@
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Old Friends</label>
+		<defName>ME_Transistor_Old_Friends</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Old Friends</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Stained Glass</label>
+		<defName>ME_Transistor_Stained_Glass</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Stained Glass</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Forecast</label>
+		<defName>ME_Transistor_Forecast</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Forecast</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Coasting</label>
+		<defName>ME_Transistor_Coasting</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Coasting</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Vanishing Point</label>
+		<defName>ME_Transistor_Vanishing_Point</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Vanishing Point</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Traces</label>
+		<defName>ME_Transistor_Traces</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Traces</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Water Wall</label>
+		<defName>ME_Transistor_Water_Wall</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Water Wall</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Cut Apart</label>
+		<defName>ME_Transistor_Cut_Apart</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Cut Apart</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Gold Leaf</label>
+		<defName>ME_Transistor_Gold_Leaf</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Gold Leaf</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Heightmap</label>
+		<defName>ME_Transistor_Heightmap</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Heightmap</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Dormant</label>
+		<defName>ME_Transistor_Dormant</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Dormant</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Apex Beat</label>
+		<defName>ME_Transistor_Apex_Beat</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Apex Beat</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Gateless</label>
+		<defName>ME_Transistor_Gateless</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Gateless</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Sandbox</label>
+		<defName>ME_Transistor_Sandbox</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Sandbox</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Interlace</label>
+		<defName>ME_Transistor_Interlace</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Interlace</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Tangent</label>
+		<defName>ME_Transistor_Tangent</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Tangent</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Signals</label>
+		<defName>ME_Transistor_Signals</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Signals</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Blank Canvas</label>
+		<defName>ME_Transistor_Blank_Canvas</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Blank Canvas</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Paper Boats</label>
+		<defName>ME_Transistor_Paper_Boats</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Paper Boats</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- She Shines</label>
+		<defName>ME_Transistor_She_Shines</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- She Shines</clipPath>
+	</MusicExpanded.TrackDef>	
+	
+   <!-- Ambient Tracks -->	
+   
+   <!-- Main Menu and Credits -->
+
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Old Friends</label>
+		<defName>ME_Transistor_Old_Friends_Menu</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Old Friends</clipPath>
+		<cue>MainMenu</cue>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Transistor- We All Become</label>
+		<defName>ME_Transistor_We_All_Become</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- We All Become</clipPath>
+		<cue>Credits</cue>
+	</MusicExpanded.TrackDef>	
+
+   <!-- Battle Tracks Small -->	
+
+   <!-- Battle Tracks Medium -->	
+
+	<MusicExpanded.TrackDef>
+		<label>Transistor- The Spine</label>
+		<defName>ME_Transistor_The_Spine</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- The Spine</clipPath>
+		<cue>BattleMedium</cue>
+	</MusicExpanded.TrackDef>
+
+   <!-- Battle Tracks Large -->	
+
+	<MusicExpanded.TrackDef>
+		<label>Transistor- In Circles</label>
+		<defName>ME_Transistor_In_Circles</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- In Circles</clipPath>
+		<cue>BattleLarge</cue>
+	</MusicExpanded.TrackDef>
+
+
+   <!-- Battle Tracks Legendary -->	  
+
+	<MusicExpanded.TrackDef>
+		<label>Transistor- Impossible</label>
+		<defName>ME_Transistor_Impossible</defName>
+		<clipPath>MusicExpanded/Transistor/Transistor- Impossible</clipPath>
+		<cue>BattleLegendary</cue>
+	</MusicExpanded.TrackDef>
+
+    <!-- Custom Cues -->	
+	
+	<!-- Anomaly Tracks -->	
+	   
+</Defs>
